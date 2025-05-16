@@ -1,0 +1,5 @@
+# Requirements for Library Management System (PyQt Version)
+
+PyQt5>=5.15.9
+
+
