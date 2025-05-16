@@ -2,4 +2,7 @@
 
 PyQt5>=5.15.9
 
-
+# #how to run 
+# cd " G:\university\semes 6\SCD\Assigments\3\code battle\LibraryManagementSystem\library_gui_pyqt"
+# venv\Scripts\activate
+# python -m gui.app
